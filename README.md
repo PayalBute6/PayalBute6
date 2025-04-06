@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### 👋 Hi, I'm Payal!
 🚀 Passionate Java Developer | Spring Boot | MySQL | HTML/CSS   
 🔍 Interested in: Full Stack Web Development, Real-Time Projects  
