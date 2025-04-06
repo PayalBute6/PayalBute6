@@ -21,5 +21,5 @@
 ---
 
 ### 🔗 Let's Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/payal-bute-a0a180228/)  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/payal-bute6/)  
 I'm always up for networking, learning, or collaborating on interesting projects!
