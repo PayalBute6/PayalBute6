@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Payal
 
 🎓 M.Sc. in Computer Applications | B.Sc. in Computer Science  
-💻 Java Developer | Spring Boot | MySQL | HTML/CSS  
+💻 Aspiring Java Developer | Spring Boot | MySQL | HTML/CSS  
 🚀 Actively developing real-world web applications and expanding backend skills  
 💡 Dedicated to continuous learning and problem-solving through technology  
 📬 Contact: [payalbute6@gmail.com](mailto:payalbute6@gmail.com)
