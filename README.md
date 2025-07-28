@@ -21,9 +21,9 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PayalBute6&show_icons=true&theme=tokyonight&hide_border=true" alt="Payal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PayalBute6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayalBute6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayalBute6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 ---
