@@ -18,16 +18,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PayalBute6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayalBute6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/payal-bute6/).  
